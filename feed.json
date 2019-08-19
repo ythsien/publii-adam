@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "adam.yu",
+    "description": "",
+    "home_page_url": "https://ythsien.github.io/publii-adam",
+    "feed_url": "https://ythsien.github.io/publii-adam/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "adam.yu"
+    },
+    "items": [
+        {
+            "id": "https://ythsien.github.io/publii-adam/first-post.html",
+            "url": "https://ythsien.github.io/publii-adam/first-post.html",
+            "title": "First Post",
+            "summary": "test",
+            "content_html": "test",
+            "author": {
+                "name": "adam.yu"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-08-19T21:42:44+08:00",
+            "date_modified": "2019-08-19T21:42:44+08:00"
+        }
+    ]
+}
